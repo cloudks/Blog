@@ -2,7 +2,7 @@
 title: 水榭清松-Song Kong
 description: This is Song' home.
 logo: favicon.png
-url: kongsong.me
+url: cloudks.github.io/Blog
 rss_url: /feed.xml
 
 # Jekyll
@@ -62,8 +62,8 @@ linkedin:           kongsong
 #hackernews:        username
 #behance:           username
 
-# Gems
-gems:
+# Plugins
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
